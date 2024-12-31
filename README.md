@@ -2,7 +2,7 @@
 
 [Bling Fire](https://github.com/microsoft/BlingFire) - high speed text tokenization - for Ruby
 
-[![Build Status](https://github.com/ankane/blingfire-ruby/workflows/build/badge.svg?branch=master)](https://github.com/ankane/blingfire-ruby/actions)
+[![Build Status](https://github.com/ankane/blingfire-ruby/actions/workflows/build.yml/badge.svg)](https://github.com/ankane/blingfire-ruby/actions)
 
 ## Installation
 
@@ -82,7 +82,7 @@ Disable prefix space
 model = BlingFire.load_model("roberta.bin", prefix: false)
 ```
 
-## Ids to Text [experimental]
+## Ids to Text
 
 Load a model
 

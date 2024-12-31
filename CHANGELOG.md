@@ -1,4 +1,17 @@
-## 0.1.8 (unreleased)
+## 0.2.2 (2024-12-29)
+
+- Fixed warning with Ruby 3.4
+
+## 0.2.1 (2023-12-12)
+
+- Fixed error with `ids_to_text` and all special tokens
+
+## 0.2.0 (2023-09-20)
+
+- Fixed error with `dup` and `clone`
+- Dropped support for Ruby < 3
+
+## 0.1.8 (2023-02-01)
 
 - Improved ARM detection
 
